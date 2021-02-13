@@ -206,32 +206,53 @@ namespace CS_Basic_13
             }
             return newArray;
         }
+
+        public static void RandomArray()
+        {
+            // Given an integer array, say [1, 5, 10, -2], create a function that prints the maximum number in the array, 
+            // the minimum value in the array, and the average of the values in the array.
+            int[] randomArray = new int[10];
+            Random rnd = new Random();
+            for (int i = 0; i < 10; i++)
+            {
+                int num = rnd.Next(25);
+                randomArray[i] = num;
+                Console.WriteLine($"{randomArray[i]} added to Array...");
+            }
+            int minValue = randomArray.Min();
+            Console.WriteLine($"Min: {minValue}");
+            
+            int maxValue = randomArray.Max();
+            Console.WriteLine($"Max: {maxValue}");
+        }
                 static void Main(string[] args)
         {
             // Console.WriteLine("Hello World!");
 
-            PrintNumbers();
-            PrintOdds();
-            PrintSum();
-            int[] theArray = { 1, 3, 5, 7, 9 };
-            LoopArray(theArray);
-            FindMax(theArray);
-            int[] theAvgArray = { 2, 10, 3 };
-            GetAverage(theAvgArray);
-            OddArray();
-            int[] arrayForGTY = {1, 3, 5, 7};
-            int comparison = 3;
-            GreaterThanY(arrayForGTY, comparison);
-            int[] arrayForSquare = {1,5,10,-10};
-            SquareArrayValues(arrayForSquare);
-            int[] arrayForNegatives = {1, 5, 10, -2};
-            EliminateNegatives(arrayForNegatives);
-            int[] arrayForMinMaxAvg = {1, 5, 10, -2};
-            MinMaxAverage(arrayForMinMaxAvg);
-            int[] arrayForShiftValues = {1, 5, 10, 7, -2};
-            ShiftValues(arrayForShiftValues);
-            int[] arrayForNumToString = {-1, -3, 2};
-            NumToString(arrayForNumToString);
+            // PrintNumbers();
+            // PrintOdds();
+            // PrintSum();
+            // int[] theArray = { 1, 3, 5, 7, 9 };
+            // LoopArray(theArray);
+            // FindMax(theArray);
+            // int[] theAvgArray = { 2, 10, 3 };
+            // GetAverage(theAvgArray);
+            // OddArray();
+            // int[] arrayForGTY = {1, 3, 5, 7};
+            // int comparison = 3;
+            // GreaterThanY(arrayForGTY, comparison);
+            // int[] arrayForSquare = {1,5,10,-10};
+            // SquareArrayValues(arrayForSquare);
+            // int[] arrayForNegatives = {1, 5, 10, -2};
+            // EliminateNegatives(arrayForNegatives);
+            // int[] arrayForMinMaxAvg = {1, 5, 10, -2};
+            // MinMaxAverage(arrayForMinMaxAvg);
+            // int[] arrayForShiftValues = {1, 5, 10, 7, -2};
+            // ShiftValues(arrayForShiftValues);
+            // int[] arrayForNumToString = {-1, -3, 2};
+            // NumToString(arrayForNumToString);
+
+            RandomArray();
         }
     }
 }
