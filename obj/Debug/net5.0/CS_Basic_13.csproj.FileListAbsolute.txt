@@ -1,0 +1,16 @@
+/mnt/c/Users/enoch/Desktop/coding_dojo/Dojo_Assignments/cs_stack/cs_assignments/CS_Basic_13/bin/Debug/net5.0/CS_Basic_13
+/mnt/c/Users/enoch/Desktop/coding_dojo/Dojo_Assignments/cs_stack/cs_assignments/CS_Basic_13/bin/Debug/net5.0/CS_Basic_13.deps.json
+/mnt/c/Users/enoch/Desktop/coding_dojo/Dojo_Assignments/cs_stack/cs_assignments/CS_Basic_13/bin/Debug/net5.0/CS_Basic_13.runtimeconfig.json
+/mnt/c/Users/enoch/Desktop/coding_dojo/Dojo_Assignments/cs_stack/cs_assignments/CS_Basic_13/bin/Debug/net5.0/CS_Basic_13.runtimeconfig.dev.json
+/mnt/c/Users/enoch/Desktop/coding_dojo/Dojo_Assignments/cs_stack/cs_assignments/CS_Basic_13/bin/Debug/net5.0/CS_Basic_13.dll
+/mnt/c/Users/enoch/Desktop/coding_dojo/Dojo_Assignments/cs_stack/cs_assignments/CS_Basic_13/bin/Debug/net5.0/ref/CS_Basic_13.dll
+/mnt/c/Users/enoch/Desktop/coding_dojo/Dojo_Assignments/cs_stack/cs_assignments/CS_Basic_13/bin/Debug/net5.0/CS_Basic_13.pdb
+/mnt/c/Users/enoch/Desktop/coding_dojo/Dojo_Assignments/cs_stack/cs_assignments/CS_Basic_13/obj/Debug/net5.0/CS_Basic_13.csprojAssemblyReference.cache
+/mnt/c/Users/enoch/Desktop/coding_dojo/Dojo_Assignments/cs_stack/cs_assignments/CS_Basic_13/obj/Debug/net5.0/CS_Basic_13.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/enoch/Desktop/coding_dojo/Dojo_Assignments/cs_stack/cs_assignments/CS_Basic_13/obj/Debug/net5.0/CS_Basic_13.AssemblyInfoInputs.cache
+/mnt/c/Users/enoch/Desktop/coding_dojo/Dojo_Assignments/cs_stack/cs_assignments/CS_Basic_13/obj/Debug/net5.0/CS_Basic_13.AssemblyInfo.cs
+/mnt/c/Users/enoch/Desktop/coding_dojo/Dojo_Assignments/cs_stack/cs_assignments/CS_Basic_13/obj/Debug/net5.0/CS_Basic_13.csproj.CoreCompileInputs.cache
+/mnt/c/Users/enoch/Desktop/coding_dojo/Dojo_Assignments/cs_stack/cs_assignments/CS_Basic_13/obj/Debug/net5.0/CS_Basic_13.dll
+/mnt/c/Users/enoch/Desktop/coding_dojo/Dojo_Assignments/cs_stack/cs_assignments/CS_Basic_13/obj/Debug/net5.0/ref/CS_Basic_13.dll
+/mnt/c/Users/enoch/Desktop/coding_dojo/Dojo_Assignments/cs_stack/cs_assignments/CS_Basic_13/obj/Debug/net5.0/CS_Basic_13.pdb
+/mnt/c/Users/enoch/Desktop/coding_dojo/Dojo_Assignments/cs_stack/cs_assignments/CS_Basic_13/obj/Debug/net5.0/CS_Basic_13.genruntimeconfig.cache
